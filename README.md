@@ -1,49 +1,48 @@
-<h1 align="center">  
-  <img src="https://em-content.zobj.net/source/microsoft/379/crossed-swords_2694-fe0f.png" width="30px" />  
-  Rafael Estévez  
-  <img src="https://em-content.zobj.net/source/microsoft/379/crossed-swords_2694-fe0f.png" width="30px" /> 
-</h1>  
+# Hola, soy Rafael Estévez 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=88C0D0¢er=true&vCenter=true&width=450&lines=Forjador+de+c%C3%B3digo+en+tierras+heladas;Arquitecto+web+de+precisi%C3%B3n+n%C3%B3rdica;Minimalismo+funcional+en+cada+l%C3%ADnea" />
-</p>  
+Bienvenido(a) a mi perfil de GitHub. Soy un estudiante apasionado por la programación, enfocado en aprender y desarrollar habilidades en desarrollo web tanto en el frontend como en el backend.
 
 ---
 
-## 🗡️ Habilidades Forjadas  
+## 🌟 Sobre mí
+Actualmente estoy estudiando programación y trabajando en proyectos que me permitan crecer como desarrollador. Me apasiona crear soluciones funcionales y visualmente atractivas, siempre buscando mejorar mi código y aprender nuevas tecnologías.
 
-### 🌬️ **Front-End**  
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-4C566A?style=for-the-badge&logo=html5&logoColor=ECEFF4" />  
-  <img src="https://img.shields.io/badge/CSS3-5E81AC?style=for-the-badge&logo=css3&logoColor=ECEFF4" />  
-  <img src="https://img.shields.io/badge/JavaScript-B48EAD?style=for-the-badge&logo=javascript&logoColor=ECEFF4" />  
-</p>  
-
-### 🛠️ **Herramientas**  
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-4C566A?style=for-the-badge&logo=git&logoColor=ECEFF4" />  
-  <img src="https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github&logoColor=ECEFF4" />  
-  <img src="https://img.shields.io/badge/VS%20Code-81A1C1?style=for-the-badge&logo=visual-studio-code&logoColor=ECEFF4" />  
-</p>  
+- **Ubicación:** República Dominicana 📍
+- **Intereses:** Desarrollo web, tecnología, aprendizaje continuo 🎯
 
 ---
 
-## 📜 Crónicas en GitHub  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelestevezdev&show_icons=true&theme=tokyonight&title_color=88C0D0&text_color=D8DEE9&icon_color=A3BE8C" width="48%" />  
-</p>
+## 💻 Tecnologías que domino
+
+### Frontend
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Backend
+![SQL](https://img.shields.io/badge/SQL-%234479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-## ❄️ Sobre el Forjador  
-- **Misión**: Construir experiencias web con la precisión de un artesano nórdico.  
-- **Esencia**: Código limpio, diseño funcional, espíritu minimalista.  
-- **Ruta**: Explorar tecnologías como quien navega fiordos helados.  
-- **Marca**: Inspirado en runas, nieve y la calma del norte.  
+## 🚀 Tecnologías que estoy aprendiendo
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+
 
 ---
 
-## 🗻 Palabras del Norte  
-<p align="center">
-  <i>"El código fluye como el viento entre los pinos."</i>
-</p>
+## 🛠️ Herramientas que utilizo
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=github&logoColor=white)
+
+---
+
+## 📊 Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rafaelestevezdev&show_icons=true&theme=minimal)
+
+---
+
+Gracias por visitar mi perfil. ¡Estoy emocionado por seguir creciendo como desarrollador y compartir mis avances contigo! 🌱
