@@ -36,6 +36,3 @@ Desarrollador web en formación con enfoque en crear soluciones funcionales y ex
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelestevezdev&layout=compact&theme=tokyonight&hide_border=true)
 
-## Conectemos
-
-[![Correo](https://img.shields.io/badge/-Correo-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rafaelestevezd@gmail.com)
