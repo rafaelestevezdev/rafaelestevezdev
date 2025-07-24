@@ -39,7 +39,3 @@ Desarrollador web en formación con enfoque en crear soluciones funcionales y ex
 ## Conectemos
 
 [![Correo](https://img.shields.io/badge/-Correo-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rafaelestevezd@gmail.com)
-
----
-
-> "El código limpio siempre parece que fue escrito por alguien que se preocupa." - Robert C. Martin
