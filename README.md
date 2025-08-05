@@ -3,9 +3,9 @@
 ## Sobre mí
 Desarrollador web en formación con enfoque en crear soluciones funcionales y experiencias de usuario intuitivas. Constantemente aprendiendo y mejorando mis habilidades técnicas para construir aplicaciones web modernas y eficientes.
 
-📍 República Dominicana 🇩🇴
-💼 Disponible para colaboraciones y proyectos
-🎓 Estudiante de desarrollo web
+* 📍 República Dominicana 🇩🇴
+* 💼 Disponible para colaboraciones y proyectos
+* 🎓 Estudiante de desarrollo web
 
 ---
 
