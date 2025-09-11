@@ -29,4 +29,3 @@ Desarrollador web en formación con enfoque en crear soluciones funcionales y ex
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rafaelestevezdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelestevezdev&layout=compact&theme=tokyonight&hide_border=true)
