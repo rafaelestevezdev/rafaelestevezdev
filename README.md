@@ -1,32 +1,35 @@
-# Rafael Estévez | Data Analyst 📊
+# Rafael Estévez
 
-## 💡 Sobre mí
-Analista de Datos enfocado en convertir información compleja en soluciones de negocio. Especializado en limpieza, modelado y visualización de datos para la toma de decisiones estratégicas.
-
-* 📍 República Dominicana 🇩🇴
-* 🎓 IBM Data Analyst Professional Certificate (En curso)
-* 👨🏾‍💻 Estudiante de Ingenieria en Sistemas
+Estudiante de Ingeniería en Sistemas | IA • Automatización • Software
 
 ---
 
-## 🛠️ Tech Stack
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+## 🧠 Perfil
+Soy estudiante de ingeniería en sistemas y construyo proyectos prácticos enfocados en inteligencia artificial, automatización y desarrollo de software.
+
+Comparto y desarrollo habilidades técnicas aplicadas a problemas reales mediante proyectos.
 
 ---
 
-## 🚀 Proyectos Destacados
-
-* 📈 **[Análisis de Ventas Retail 2025](LINK_AL_REPOSITORIO)** Limpieza y análisis exploratorio de +19,000 registros de ventas. Foco en estandarización de datos y detección de tendencias regionales.
+## ⚙️ Enfoque
+- 🧩 Construcción de proyectos con Python
+- ⚡ Automatización de procesos
+- 🤖 Aplicación de IA en soluciones prácticas
+- 🛠️ Desarrollo de software orientado a problemas reales
 
 ---
 
-## 📊 Estadísticas
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rafaelestevezdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+## 💻 Stack
+Python • SQL • APIs • Git
+
+---
+
+## 📌 Construcción en público
+Comparto el proceso de desarrollo de proyectos, aprendizaje y automatización en:
+
+YouTube: https://www.youtube.com/@rafaelestevezd
 
 ---
 
 ## 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelestevezd/)
+LinkedIn: https://www.linkedin.com/in/rafaelestevezd/
